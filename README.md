@@ -1,20 +1,21 @@
-# Smart To-Do & Habit Tracker
+# 🚀 Smart To-Do & Habit Tracker
 
-A simple yet powerful command-line task manager and habit tracker built with Python.
+A feature-rich command-line application for managing daily tasks and building productive habits.
 
-## ✨ Features
-- ✅ Add, view, and remove tasks
-- ✅ Persistent storage using JSON
-- ✅ Personalized user greeting
-- ✅ Simple and intuitive menu system
-- ✅ Task number selection for easy removal
+## ✨ Highlights
+- **Task Management**: Add, view, and remove tasks with ease
+- **Data Persistence**: Automatically saves tasks to JSON file
+- **User-Friendly**: Clean menu interface with personalized greetings
+- **Beginner-Friendly**: Simple Python code perfect for learning
 
-## 🚀 Getting Started
-
-### Prerequisites
+## 🛠️ Tech Stack
 - Python 3.x
+- JSON for data storage
+- Git for version control
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/habit-tracker.git
+## 📸 Preview
+![Uploading image.png…]()
+
+
+## 👨‍💻 About Me
+I'm Jure Kokol, a budding developer building my portfolio. This is my first Python project!
